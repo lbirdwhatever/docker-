@@ -26,7 +26,7 @@
 - 26.将镜像推送到远程仓库，默认为docker hub：docker push
 - 27.获取容器的运行输出日志：docker log
 - 28.启动容器,在其中运行指定命令：docker run
-####docker容器中的命令：
+#### docker容器中的命令：
 >-	-a stdin 指定标准输入输出内容类型，可选 STDIN/STDOUT/STDERR 三项；
 >-	-d 后台运行容器，并返回容器ID；
 >-	-i 以交互模式运行容器，通常与 -t 同时使用；
